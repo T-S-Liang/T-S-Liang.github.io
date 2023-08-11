@@ -15,7 +15,7 @@ redirect_from:
 
 I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of **condensed matter physics**, especially **2-D materials like TMDs, graphene and their heterostructures.**
 
-In my undergraduate research, I investigated the properties of 2-D materials via optical experiment and theoreical computational simulation. I was a member of Prof. Shunping Zhang and Prof. Shengjun Yuan's group at Wuhan Univeristy. Also, I got an internship as a member of Prof. Michael Crommie's group at UC Berkeley.
+In my undergraduate research, I investigated the properties of 2-D materials via optical experiment and theoreical computational simulation. I am a member of Prof. Shunping Zhang and Prof. Shengjun Yuan's group at Wuhan Univeristy. Now I am doing my internship in UC Berkeley as a member of Prof. Michael Crommie's group.
 
 **Please contact me via:**
 
