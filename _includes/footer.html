@@ -1,0 +1,14 @@
+{% include base_path %}
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    <li><a href="https://zeqing-wang.github.io"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Z. Wang@Sun Yat-Sen University</a></li>
+    <li><a href="https://n1vk.github.io"><i class="fas fa-fw fa-link" aria-hidden="true"></i> K. Yang@Nanjing University</a></li>
+    <li><a href="https://ayanamirei.ink"><i class="fas fa-fw fa-link" aria-hidden="true"></i> S. Yang@Zhejiang University</a></li>
+    <li><a href="https://lyutoon.github.io"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Tong Liu@UCAS</a></li>
+  </ul>
+</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
