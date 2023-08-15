@@ -15,21 +15,18 @@ redirect_from:
 
 I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of **condensed matter physics**, especially **2-D materials like TMDs, graphene and their heterostructures.**
 
-In my undergraduate research, I investigated the properties of 2-D materials via optical experiment and theoreical computational simulation. I am a member of Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a> and Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan Univeristy. Now I am doing my internship in UC Berkeley as a member of Prof. <a href = "https://crommie.berkeley.edu">Michael Crommie</a>'s group.
+In my undergraduate research, I investigated the properties of 2-D materials via optical experiment and theoreical computational simulation. I am a member of Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a> and Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan Univeristy. If everything goes well, I would be a Ph.D. student in Prof. <a href = "https://www.physics.hku.hk/~wangyao/">Wang Yao</a>'s Group at HKU.
 
 **Please contact me via:**
 
-<i class="fa fa-fw fa-envelope"></i> Email: <a href="mailto:liangshuang@whu.edu.cn">liangshuang@whu.edu.cn</a> or <a href="mailto:sliang57@berkeley.edu">sliang57@berkeley.edu</a>
+<i class="fa fa-fw fa-envelope"></i> Email: <a href="mailto:liangshuang@whu.edu.cn">liangshuang@whu.edu.cn</a>
 
 You may also follow my WeChat Official Account **@Pandas Secret Garden**, it's a place for me to update some pieces of my daily life and share some of my ideas. (Articles from my WeChat Official Account are Chinese only.)
 
 
 What's New:
 =============
-**[Apr. 21st, 2023]** I will join Prof. <a href = "https://crommie.berkeley.edu">Michael Crommie</a>'s group at UC Berkeley for undergraduate research starting this summer!<br>
-**[Mar. 9th, 2023]** I've just joined Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan University as a research assistant this semester!<br>
-**[Dec. 17th, 2022]** My admission to BPIE program is deferred to 2023 Fall due to the schedule conflict between the spring semester enrollment and postponed final exams in WHU. <br>
-**[Nov. 5th, 2022]** I just got admitted to the BPIE program at UC Berkeley for the Spring semester 2023, and I will enroll as the visiting undergraduate student in the Department of Physics in Jan. 2023. <br>
+
 **[Apr. 19th, 2022]** Just registered my own site! Kinda excited! Thanks to the help of K. Yang and Z. Wang who have given me so much support and enlightening ideas on how to build a website. I love my BFFs.<br>
 **[Feb. 14th, 2022]** I've just joined Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a>'s group at Wuhan University for undergraduate research!<br>
 
@@ -44,16 +41,16 @@ What's New:
 # Experience
 <!-- <h2><b>Experience</b></h2> -->
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-    <tr>
+   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <center><img src='images/Berkeley.png' width="170"></center>
+      <center><img src='images/HKU.png' width="150"></center>
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="http://physics.berkeley.edu/">Department of Physics</a>, University of California, Berkeley.</b>
+      <b><a href="http://physics.whu.edu.cn/">School of Physics</a>, Hong Kong University.</b>
       <br>
-      Visiting Student, BPIE Program
+      Ph.D. Student in Condensed Matter Theory
       <br>
-      (Aug. 2023 - Dec. 2023)
+      (Sept. 2024 - Now)
     </td>
   </tr>
   <tr>
