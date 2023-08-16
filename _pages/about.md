@@ -26,7 +26,8 @@ You may also follow my WeChat Official Account **@Pandas Secret Garden**, it's a
 
 What's New:
 =============
-
+**[Aug. 18th, 2023]** I would start my Ph.D. ZERO year at HKU starting October at Prof. <a href = "https://www.physics.hku.hk/~wangyao/">Wang Yao</a>'s group.<br>
+**[Feb. 9th, 2023]** I've joined Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan University as a research assistant this semester!<br>
 **[Apr. 19th, 2022]** Just registered my own site! Kinda excited! Thanks to the help of K. Yang and Z. Wang who have given me so much support and enlightening ideas on how to build a website. I love my BFFs.<br>
 **[Feb. 14th, 2022]** I've just joined Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a>'s group at Wuhan University for undergraduate research!<br>
 
@@ -42,8 +43,8 @@ What's New:
 <!-- <h2><b>Experience</b></h2> -->
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
    <tr>
-    <td style="padding:8px;width:70%;vertical-align:middle;border:none;">
-      <center><img src='images/HKU.png' width="150"></center>
+    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <center><img src='images/HKU.png' width="400"></center>
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b><a href="http://physics.whu.edu.cn/">School of Physics</a>, Hong Kong University.</b>
