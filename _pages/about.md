@@ -48,9 +48,9 @@ What's New:
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b><a href="http://physics.whu.edu.cn/">School of Physics</a>, Hong Kong University.</b>
       <br>
-      Ph.D. Student in Condensed Matter Theory
+      RA Student in Condensed Matter Theory (Ph.D. Zero Year)
       <br>
-      (Sept. 2024 - Now)
+      (Oct. 2023 - Now)
     </td>
   </tr>
   <tr>
