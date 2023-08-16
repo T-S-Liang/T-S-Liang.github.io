@@ -44,7 +44,7 @@ What's New:
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
    <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <center><img src='images/HKU.png' width="400"></center>
+      <center><img src='images/HKU.png' width="500"></center>
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b><a href="http://physics.whu.edu.cn/">School of Physics</a>, Hong Kong University.</b>
