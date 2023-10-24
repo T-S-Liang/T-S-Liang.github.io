@@ -13,7 +13,7 @@ redirect_from:
 
 <!-------------------->
 
-I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of Electric Engineering, particularly in the field of **optical engineering, photonics** and **semiconductor devices**. I'm looking for MS/Ph.D. positions in these fields, please don't hesitate to contact me if you're interested.
+I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of Electronic Engineering, particularly in the field of **optical engineering, photonics** and **semiconductor devices**. I'm looking for MS/Ph.D. positions in these fields, please don't hesitate to contact me if you're interested.
 
 **Please contact me via:**
 
@@ -47,7 +47,7 @@ What's New:
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b><a href="http://physics.whu.edu.cn/">School of Physics and Technology</a>, Wuhan University.</b>
       <br>
-      B.S. in Physics
+      B.S. in Physics, GPA: 3.77/4.00, Rank: 5/185
       <br>
       (Sept. 2020 - Now)
     </td>
