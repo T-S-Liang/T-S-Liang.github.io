@@ -99,7 +99,7 @@ What's New:
       </a>
     </td>
   </tr>
-
+</table>
 
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
