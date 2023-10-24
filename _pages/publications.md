@@ -18,15 +18,9 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>2. "Self-paced Ensemble for Highly Imbalanced Massive Data Classification"</b>, 
+      <b>"Saturable Absorption of Few-layer Transition Metal Dichalcogenides by Monochromatic Laser Beams"</b>, 
       <br>
-      <u>Zhining Liu</u>, 
-      <a href="https://weicao1990.github.io/"> Wei Cao</a>, 
-      <a href="https://scholar.google.com/citations?user=uBo3SJcAAAAJ&hl=en"> Zhifeng Gao</a>, 
-      <a href="https://scholar.google.com/citations?user=pZBEnY8AAAAJ&hl=zh-CN"> Jiang Bian</a>, 
-      <a href="https://scholar.google.com/citations?user=EezEcbgAAAAJ&hl=en"> Hechang Chen</a>, 
-      <a href="http://yichang-cs.com/"> Yi Chang</a>, 
-      <a href="https://www.microsoft.com/en-us/research/people/tyliu/"> Tie-Yan Liu</a>, 
+      <u>Shuang Liang</u>, Yuze Lu, Haimu Liu, Shunping Zhang, Hongxing Xu
       <br>
       <i>in 36th IEEE International Conference on Data Engineering (<b>ICDE 2020</b>).</i>
       <br>
