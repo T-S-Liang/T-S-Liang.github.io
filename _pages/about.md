@@ -13,9 +13,7 @@ redirect_from:
 
 <!-------------------->
 
-I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of **condensed matter physics**, especially **2-D materials like TMDs, graphene and their heterostructures.**
-
-In my undergraduate research, I investigated the properties of 2-D materials via optical experiment and theoreical computational simulation. I am a member of Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a> and Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan Univeristy.
+I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of Electric Engineering, particularly in the field of **optical engineering, photonics** and **semiconductor devices**. I'm looking for MS/Ph.D. positions in these fields, please don't hesitate to contact me if you're interested.
 
 **Please contact me via:**
 
@@ -26,6 +24,7 @@ You may also follow my WeChat Official Account **@Pandas Secret Garden**, it's a
 
 What's New:
 =============
+**[Oct, 24th 2023]** Check our latest paper on nonlinear response in TMDs to monochromatic laser on arxiv!<br>
 **[Feb. 9th, 2023]** I've joined Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan University as a research assistant this semester!<br>
 **[Apr. 19th, 2022]** Just registered my own site! Kinda excited! Thanks to the help of K. Yang and Z. Wang who have given me so much support and enlightening ideas on how to build a website. I love my BFFs.<br>
 **[Feb. 14th, 2022]** I've just joined Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a>'s group at Wuhan University for undergraduate research!<br>
