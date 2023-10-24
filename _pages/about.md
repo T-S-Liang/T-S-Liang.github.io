@@ -78,6 +78,28 @@ What's New:
   </tr>
 </table>
 
+
+# Publications
+<!-- <h2><b>Publications</b></h2> -->
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/gaokao.png">
+      <img src='images/gaokao.png' width="300">
+      </a>
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>
+      <br>
+      <u>Zeqing Wang</u>, et al. <i>Computer Science(Chinese, CCF-B)</i>. 
+      <br>
+      [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
+      [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>]
+    </td>
+  </tr>
+
+</table>
+
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
 <table style="border:none;font-size:0.95em;">
