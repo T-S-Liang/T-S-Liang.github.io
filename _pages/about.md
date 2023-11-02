@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- <style> h2 { border-bottom: none } </style> -->
 
-![BSc](https://img.shields.io/badge/B.Sc.-Wuhan%20Univ.%20(2020--Present)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
+![B.S.](https://img.shields.io/badge/B.Sc.-Wuhan%20Univ.%20(2020--Present)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
 <!-------------------->
 
@@ -125,6 +125,20 @@ What's New:
   </tr>
   </table>
   
+# Github Stats
+
+<table style="font-size:0.92em;">
+  <tr>
+    <td align="center">
+    <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/overview.svg">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues&hide_rank=false&include_all_commits=true&theme=vision-friendly-dark"> -->
+    </td>
+    <td align="center">
+    <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/languages.svg">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues,contribs&layout=compact&theme=vision-friendly-dark"> -->
+    </td>
+  </tr>
+</table>
 
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
