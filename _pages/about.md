@@ -101,7 +101,7 @@ What's New:
   </tr>
 </table>
 
-### *Open-source Projects*
+# Open-source Projects
 
 <table style="font-size:0.95em;">
   <tr>
