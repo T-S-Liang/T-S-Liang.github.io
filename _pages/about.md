@@ -10,6 +10,7 @@ redirect_from:
 <!-- <style> h2 { border-bottom: none } </style> -->
 
 ![B.S.](https://img.shields.io/badge/B.S.-Wuhan%20Univ.%20(2020--Present)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-------------------->
 
