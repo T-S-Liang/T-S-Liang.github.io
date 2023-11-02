@@ -194,4 +194,3 @@ What's New:
 
 * In Chinese context, my name has the same meaning of the word "cool", which refers to the pleasant weather of the season I were born. It's actually a girly name so that people often mistake me as a girl before they meet me.
 * I love country music and Chinese folk, despite I'm a terrible guitar player.
-* I took the Chinese Gaokao three times for three different purposes. The first year of gaokao for USTC SGY(clearly I failed) when I was Senior 2, the second year as proper age examinee when I was Senior 3, and the last year retaking for my dream of studying physics.
