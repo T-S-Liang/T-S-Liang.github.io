@@ -101,6 +101,29 @@ What's New:
   </tr>
 </table>
 
+### *Open-source Projects*
+
+<table style="font-size:0.95em;">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/imbens-thumb.png" width="200px" alt=""/><br>
+      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      </a>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble">
+        Modeling Strain Tensor Field in TBG.
+        </a> [Python Library] <br> 
+      </strong>
+        [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
+    </td>
+  </tr>
+
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
 <table style="border:none;font-size:0.95em;">
