@@ -130,11 +130,10 @@ What's New:
 <table style="font-size:0.92em;">
   <tr>
     <td align="center">
-    <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/overview.svg">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues&hide_rank=false&include_all_commits=true&theme=vision-friendly-dark"> -->
+    ![Shuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-S-Liang_icons=true&theme=radical)
     </td>
     <td align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-S-Liang&size_weight=0.5&count_weight=0.5)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-S-Liang)](https://github.com/T-S-Liang/github-readme-stats)
     </td>
   </tr>
 </table>
