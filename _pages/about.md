@@ -123,6 +123,8 @@ What's New:
         [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
     </td>
   </tr>
+  </table>
+  
 
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
