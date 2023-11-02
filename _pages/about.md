@@ -134,11 +134,10 @@ What's New:
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues&hide_rank=false&include_all_commits=true&theme=vision-friendly-dark"> -->
     </td>
     <td align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-S-Liang&size_weight=0.5&count_weight=0.5)
     </td>
   </tr>
 </table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
 <table style="border:none;font-size:0.95em;">
