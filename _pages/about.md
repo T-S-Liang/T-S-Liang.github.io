@@ -134,8 +134,7 @@ What's New:
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues&hide_rank=false&include_all_commits=true&theme=vision-friendly-dark"> -->
     </td>
     <td align="center">
-    <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/languages.svg">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues,contribs&layout=compact&theme=vision-friendly-dark"> -->
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
     </td>
   </tr>
 </table>
