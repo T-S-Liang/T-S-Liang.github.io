@@ -130,7 +130,9 @@ What's New:
 <table style="font-size:0.92em;">
   <tr>
     <td align="center">
-    ![Shuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-S-Liang&show_icons=true)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=github-readme-stats" />
+</a>
     </td>
     <td align="center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-S-Liang)](https://github.com/T-S-Liang/github-readme-stats)
