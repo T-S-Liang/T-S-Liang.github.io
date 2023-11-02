@@ -118,7 +118,7 @@ What's New:
       <strong>
         <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble">
         Modeling Strain Tensor Field in TBG.
-        </a> [Python Library] <br> 
+        </a> [Commputational CMT] <br> 
       </strong>
         [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
     </td>
