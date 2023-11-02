@@ -129,13 +129,11 @@ What's New:
 <table style="font-size:0.92em;">
   <tr>
     <td align="center">
-    <a href="https://github.com/T-S-Liang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=github-readme-stats" />
+ <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/overview.svg">
 </a>
     </td>
     <td align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</td>
+  <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/languages.svg">
   </tr>
 </table>
 # Selected Honors
