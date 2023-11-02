@@ -106,20 +106,20 @@ What's New:
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/imbens-thumb.png" width="200px" alt=""/><br>
-      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/stargazers">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      <a href="https://github.com/T-S-Liang/TBG_Strain/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/T-S-Liang/TBG_Strain?style=social">
       </a>
-      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/network/members">
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      <a href="https://github.com/T-S-Liang/TBG_Strain/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/T-S-Liang/TBG_Strain?style=social">
       </a>
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble">
+        <a href="https://github.com/T-S-Liang/TBG_Strain">
         Modeling Strain Tensor Field in TBG.
         </a> [Commputational CMT] <br> 
       </strong>
-        [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
+        [<a href="https://github.com/T-S-Liang/TBG_Strain">PDF</a>]
     </td>
   </tr>
   </table>
