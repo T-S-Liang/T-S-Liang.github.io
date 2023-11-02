@@ -138,7 +138,7 @@ What's New:
     </td>
   </tr>
 </table>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 # Selected Honors
 <!-- <h2><b>Selected Honors</b></h2> -->
 <table style="border:none;font-size:0.95em;">
