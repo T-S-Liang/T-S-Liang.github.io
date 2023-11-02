@@ -10,8 +10,6 @@ redirect_from:
 <!-- <style> h2 { border-bottom: none } </style> -->
 
 ![B.S.](https://img.shields.io/badge/B.S.-Wuhan%20Univ.%20(2020--Present)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-------------------->
 
 I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of Electronic Engineering, particularly in the field of **optical engineering, photonics** and **semiconductor devices**. I'm looking for MS/Ph.D. positions in these fields, please don't hesitate to contact me if you're interested.
@@ -136,8 +134,8 @@ What's New:
 </a>
     </td>
     <td align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-S-Liang)](https://github.com/T-S-Liang/github-readme-stats)
-    </td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</td>
   </tr>
 </table>
 # Selected Honors
