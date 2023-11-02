@@ -130,10 +130,10 @@ What's New:
   <tr>
     <td align="center">
  <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/overview.svg">
-</a>
     </td>
     <td align="center">
   <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/languages.svg">
+    </td>
   </tr>
 </table>
 # Selected Honors
