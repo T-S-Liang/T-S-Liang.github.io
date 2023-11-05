@@ -105,7 +105,7 @@ What's New:
 <table style="font-size:0.95em;">
   <tr>
     <td align="center">
-      <img src="/images/TBG.jpg" width="200px" alt=""/><br>
+      <img src="/images/TBG.jpg" width="300px" alt=""/><br>
       <a href="https://github.com/T-S-Liang/TBG_Strain/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/T-S-Liang/TBG_Strain?style=social">
       </a>
@@ -119,7 +119,7 @@ What's New:
         Modeling Strain Tensor Field in TBG.
         </a> [Commputational CMT] <br> 
       </strong>
-        [<a href="https://github.com/T-S-Liang/TBG_Strain">PDF</a>]
+        [<a href="https://github.com/T-S-Liang/TBG_Strain">GitHub</a>]
     </td>
   </tr>
   </table>
