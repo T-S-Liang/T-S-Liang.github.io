@@ -105,7 +105,7 @@ What's New:
 <table style="font-size:0.95em;">
   <tr>
     <td align="center">
-      <img src="/images/TBG.jpg" width="300px" alt=""/><br>
+      <img src="/images/TBG.jpg" width="400px" alt=""/><br>
       <a href="https://github.com/T-S-Liang/TBG_Strain/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/T-S-Liang/TBG_Strain?style=social">
       </a>
