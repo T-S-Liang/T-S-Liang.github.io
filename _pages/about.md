@@ -204,5 +204,5 @@ What's New:
 
 * In Chinese context, my name has the same meaning of the word "cool", which refers to the pleasant weather of the season I were born. It's actually a girly name so that people often mistake me as a girl before they meet me.
 * I love country music and Chinese folk, despite I'm a terrible guitar player.
-* I enrolled at UESTC & UoG joint training program as a B.Eng student major in EE for three months, and I quit because the curriculum didn't contain Quantum Mechanics and Mathmatical Analysis (I was convinced that a solid mathematical and physical foundation is vital for a EE student.). But now I'm heading back to the filed of EE :).
+* I enrolled at UESTC & UoG joint training program as a B.Eng student major in EE for three months, and I quit because the curriculum didn't contain Quantum Mechanics and Mathmatical Analysis (I was convinced that a solid mathematical and physical foundation is vital for a EE student.). But now I'm heading back to the filed of EE : ).
 * I participated Gaokao in my Senoir 2 (Advanced participation for gifted young program), Senoir 3 and Senoir 4 (after quiting UESTC), and my first choice was all USTC.
