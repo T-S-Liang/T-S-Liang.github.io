@@ -86,7 +86,7 @@ What's New:
       <br>
       <u>Shuang Liang</u>, Yuze Lu, Haimu Liu, Shunping Zhang and Hongxing Xu
       <br>
-      <i>arxiv to be submitted to Physical Review B sonn!.</i>
+      <i>To be submitted to Physical Review B, would be on arxiv soon.</i>
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
