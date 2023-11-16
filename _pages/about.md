@@ -23,7 +23,6 @@ You may also follow my WeChat Official Account **@Pandas Secret Garden**, it's a
 
 What's New:
 =============
-**[Oct, 24th 2023]** Check our latest paper on nonlinear response in TMDs to monochromatic laser on arxiv!<br>
 **[Feb. 9th, 2023]** I've joined Prof. <a href = "http://yuan.whu.edu.cn">Shengjun Yuan</a>'s group at Wuhan University as a research assistant this semester!<br>
 **[Apr. 19th, 2022]** Just registered my own site! Kinda excited! Thanks to the help of K. Yang and Z. Wang who have given me so much support and enlightening ideas on how to build a website. I love my BFFs.<br>
 **[Feb. 14th, 2022]** I've just joined Prof. <a href = "http://jszy.whu.edu.cn/zhangshunping/en/index.htm#">Shunping Zhang</a>'s group at Wuhan University for undergraduate research!<br>
@@ -87,10 +86,8 @@ What's New:
       <br>
       <u>Shuang Liang</u>, Yuze Lu, Haimu Liu, Shunping Zhang and Hongxing Xu
       <br>
-      <i>arxiv to be submitted to Physical Review B.</i>
+      <i>arxiv to be submitted to Physical Review B sonn!.</i>
       <br>
-      [<a href="https://arxiv.org/pdf/">PDF</a>]
-      [<a href="https://arxiv.org/">arXiv</a>] 
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/SA.png">
