@@ -22,10 +22,8 @@ author_profile: true
       <br>
       <u>Shuang Liang</u>, Yuze Lu, Haimu Liu, Shunping Zhang and Hongxing Xu
       <br>
-      <i>arxiv to be submitted to Physical Review B.</i>
+      <i>To be submitted to Physical Review B.</i>
       <br>
-      [<a href="https://arxiv.org/pdf/">PDF</a>]
-      [<a href="https://arxiv.org/">arXiv</a>] 
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/SA.png">
