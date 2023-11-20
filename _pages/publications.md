@@ -20,7 +20,7 @@ author_profile: true
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>1. "Saturable Absorption of Few-layer Transition Metal Dichalcogenides by Monochromatic Laser Beams"</b>, 
       <br>
-      <u>Shuang Liang</u>, Yuze Lu, Haimu Liu, Shunping Zhang and Hongxing Xu
+      <u>Shuang Liang</u>, et al.
       <br>
       <i>To be submitted to Physical Review B.</i>
       <br>
