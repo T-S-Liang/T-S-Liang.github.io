@@ -137,7 +137,7 @@ What's New:
 <!-- <h2><b>Selected Honors</b></h2> -->
 <table style="border:none;font-size:0.95em;">
   <tr>
-    <td style="border:none;"><i>First Class Scholarship</i> (10/180, ¥3,000 CNY) by Wuhan University.
+    <td style="border:none;"><i>First Class Scholarship</i> (5%, for academic excellence, ¥3,000 CNY) by Wuhan University.
     </td>
     <td style="border:none;text-align:center;">2021
     </td>
