@@ -12,7 +12,7 @@ redirect_from:
 ![B.S.](https://img.shields.io/badge/B.S.-Wuhan%20Univ.%20(2020--Present)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 <!-------------------->
 
-I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of Electrical Engineering, particularly in the field of **AI hardware semiconductor devices** and **AI for science**. I'm looking for MS/Ph.D. positions in these fields, please don't hesitate to contact me if you're interested.
+I'm currently an undergraduate student at <a href = "https://physics.whu.edu.cn">School of Physics and Technology, Wuhan University</a>. My research interests fall into the field of Electrical Engineering, particularly in the field of **2D materials based semiconductor devices** **Photonics** and **AI for science**. I'm looking for MS/Ph.D. positions in these fields, please don't hesitate to contact me if you're interested.
 
 **Please contact me via:**
 
